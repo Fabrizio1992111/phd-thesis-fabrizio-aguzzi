@@ -15,7 +15,7 @@ Doctor of Engineering (PhD)
 Universidad Nacional de Rosario 
 
 ## Document
-📄 PhD thesis PDF: `Tesis-FabrizioAguzzi.pdf`
+📄 PhD thesis PDF: `PhD_Thesis_Fabrizio_Aguzzi.pdf`
 
 ## Keywords
 PhD thesis, doctoral thesis, Fabrizio Aguzzi, multiscale modeling, crystal plasticity, nuclear materials
